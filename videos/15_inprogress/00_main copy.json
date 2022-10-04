@@ -1,0 +1,99 @@
+{
+"videoname" : "Python Introduction",
+"pages": [
+    {
+    "title" : "What is Python?",
+    "page": "1",
+    "members" : [
+        {
+        "text" : "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
+        "type" : "paragraph",
+        "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
+        "voice" : "1-1"
+        },
+        {
+        "text" : "Python is used for:",
+        "type" : "heading",
+        "speech": "abc",
+        "voice" : "1-2",
+        "points" : [
+            {
+            "text" : "web development (server-side),",
+            "type" : "point",
+            "speech": "sdvsdvsdv",
+            "voice" : "1-2-1"
+            },
+            {
+            "text" : "software development,",
+            "type" : "point",
+            "speech": "ydgnxvnb",
+            "voice" : "1-2-2"
+            },
+            {
+            "text" : "mathematics,",
+            "type" : "point",
+            "speech": "ysfnydgn",
+            "voice" : "1-2-3"
+            },
+            {
+            "text" : "system scripting.",
+            "type" : "point",
+            "speech": "fgnxfgn",
+            "voice" : "1-2-4"
+            }
+        ]
+        }
+    ]
+    },
+    {
+        "title" : "What can Python do?",
+        "page": "2",
+        "members" : [
+            {
+            "text" : "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization.",
+            "type" : "paragraph",
+            "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
+            "voice" : "2-1"
+            },
+            {
+            "text" : "Python can be used:",
+            "type" : "heading",
+            "speech": "abc",
+            "voice" : "2-2",
+            "points" : [
+                {
+                "text" : "on a server to create web applications.",
+                "type" : "point",
+                "speech": "sdvsdvsdv",
+                "voice" : "2-2-1"
+                },
+                {
+                "text" : "alongside software to create workflows.",
+                "type" : "point",
+                "speech": "ydgnxvnb",
+                "voice" : "2-2-2"
+                },
+                {
+                "text" : "to database systems. It can also read and modify files.",
+                "type" : "point",
+                "speech": "ysfnydgn",
+                "voice" : "2-2-3"
+                },
+                {
+                "text" : "to handle big data and perform complex mathematics.",
+                "type" : "point",
+                "speech": "fgnxfgn",
+                "voice" : "2-2-4"
+                },
+                {
+                "text" : "for rapid prototyping, or for production-ready software development.",
+                "type" : "point",
+                "speech": "fgnxfgn",
+                "voice" : "2-2-5"
+                }
+            ]
+            }
+        ]
+        }
+]
+}
