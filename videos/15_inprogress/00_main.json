@@ -1,77 +1,207 @@
 {
-"videoname" : "Python Introduction",
-"pages": [
-    {
-    "title" : "What is Python?",
-    "page": "1",
-    "font": "Dyuthi",
-    "fontsize": 150,
-    "color" : "black",
-    "bg_color": "grey",
-    "members" : [
-        {
-        "text" : "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
-        "type" : "paragraph",
-        "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
-        "voice" : "1-1",
-        "font": "Chilanka-Regular",
-        "fontsize": 75,
-        "color" : "black",
-        "bg_color": "grey"
-        },
-        {
-        "text" : "Python is used for:",
-        "type" : "heading",
-        "speech": "Python, one of the most popular programming languages in the world, has created everything from Netflix’s recommendation algorithm to the software that controls self-driving cars. Python is a general-purpose language, which means it’s designed to be used in a range of applications, including data science, software and web development, automation, and generally getting stuff done.",
-        "voice" : "1-2",
+    "videoname": "Python Introduction",
+    "pages": [
+      {
+        "title": "What is Python?",
+        "page": "1",
         "font": "Dyuthi",
-        "fontsize": 75,
-        "color" : "black",
+        "fontsize": 150,
+        "color": "black",
         "bg_color": "grey",
-        "points" : [
-            {
-            "text" : "web development (server-side),",
-            "type" : "point",
-            "speech": "Python is often used to develop the back end of a website or application—the parts that a user doesn’t see. Python’s role in web development can include sending data to and from servers, processing data and communicating with databases, URL routing, and ensuring security. Python offers several frameworks for web development. Commonly used ones include Django and Flask.",
-            "voice" : "1-2-1",
+        "members": [
+          {
+            "text": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
+            "type": "paragraph",
+            "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
+            "voice": "1-1",
             "font": "Chilanka-Regular",
-            "fontsize": 50,
-            "color" : "black",
+            "fontsize": 75,
+            "color": "black",
             "bg_color": "grey"
-            },
-            {
-            "text" : "software development,",
-            "type" : "point",
-            "speech": "In software development, Python can aid in tasks like build control, bug tracking, and testing. With Python, software developers can automate testing for new products or features. Some Python tools used for software testing include Green and Requestium.",
-            "voice" : "1-2-2",
-            "font": "Chilanka-Regular",
-            "fontsize": 50,
-            "color" : "black",
-            "bg_color": "grey"
-            },
-            {
-            "text" : "mathematics,",
-            "type" : "point",
-            "speech": "Python is a great language for doing data analysis, primarily because of the fantastic ecosystem of data-centric Python packages. Pandas is one of those packages and makes importing and analyzing data much easier. There are some important math operations that can be performed on a pandas series to simplify data analysis using Python and save a lot of time",
-            "voice" : "1-2-3",
-            "font": "Chilanka-Regular",
-            "fontsize": 50,
-            "color" : "black",
-            "bg_color": "grey"
-            },
-            {
-            "text" : "system scripting.",
-            "type" : "point",
-            "speech": "Scripting is a very common practice among Python programmers. It’s used for automation of daily tasks, reporting, server management, security, social media management, business growth and development, financial trading, automating software and many other intelligent solutions.",
-            "voice" : "1-2-4",
-            "font": "Chilanka-Regular",
-            "fontsize": 50,
-            "color" : "black",
-            "bg_color": "grey"
-            }
+          },
+          {
+            "text": "Python is used for:",
+            "type": "heading",
+            "speech": "Python, one of the most popular programming languages in the world, has created everything from Netflix’s recommendation algorithm to the software that controls self-driving cars. Python is a general-purpose language, which means it’s designed to be used in a range of applications, including data science, software and web development, automation, and generally getting stuff done.",
+            "voice": "1-2",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey",
+            "points": [
+              {
+                "text": " # web development (server-side),",
+                "type": "point",
+                "speech": "Python is often used to develop the back end of a website or application—the parts that a user doesn’t see. Python’s role in web development can include sending data to and from servers, processing data and communicating with databases, URL routing, and ensuring security. Python offers several frameworks for web development. Commonly used ones include Django and Flask.",
+                "voice": "1-2-1",
+                "font": "Chilanka-Regular",
+                "fontsize": 50,
+                "color": "black",
+                "bg_color": "grey"
+              },
+              {
+                "text": " # software development,",
+                "type": "point",
+                "speech": "In software development, Python can aid in tasks like build control, bug tracking, and testing. With Python, software developers can automate testing for new products or features. Some Python tools used for software testing include Green and Requestium.",
+                "voice": "1-2-2",
+                "font": "Chilanka-Regular",
+                "fontsize": 50,
+                "color": "black",
+                "bg_color": "grey"
+              },
+              {
+                "text": " # mathematics,",
+                "type": "point",
+                "speech": "Python is a great language for doing data analysis, primarily because of the fantastic ecosystem of data-centric Python packages. Pandas is one of those packages and makes importing and analyzing data much easier. There are some important math operations that can be performed on a pandas series to simplify data analysis using Python and save a lot of time",
+                "voice": "1-2-3",
+                "font": "Chilanka-Regular",
+                "fontsize": 50,
+                "color": "black",
+                "bg_color": "grey"
+              },
+              {
+                "text": " # system scripting.",
+                "type": "point",
+                "speech": "Scripting is a very common practice among Python programmers. It’s used for automation of daily tasks, reporting, server management, security, social media management, business growth and development, financial trading, automating software and many other intelligent solutions.",
+                "voice": "1-2-4",
+                "font": "Chilanka-Regular",
+                "fontsize": 50,
+                "color": "black",
+                "bg_color": "grey"
+              }
+            ]
+          }
         ]
-        }
+      },
+      {
+        "title": "Why Python?",
+        "page": "2",
+        "font": "Dyuthi",
+        "fontsize": 150,
+        "color": "black",
+        "bg_color": "grey",
+        "members": [
+          {
+            "text": "# Python can be used on a server to create web applications.",
+            "type": "paragraph",
+            "speech": "Web Development is a very vast field, but in general, it means developing applications that can be accessed via the internet on a web browser. A web application has two components, frontend, and backend.      The frontend is the part of a web application that deals with what users can see and interact with and how those interactions should appear. It is what the users see on their web browser when they visit a URL to access a web application.   The backend is the part of a web application that deals with its server-side aspects. It is the aspect where Web Development using Python really shines. The backend handles storing, retrieving, and formatting data in an agreed-upon format so that the data can be parsed and understood by other applications. Since, in a web server, data is exchanged via HTTP, the backend of a web application needs to be able to parse an HTTP request, understand its content, and operate accordingly on the data. These operations may include storing, validating, updating, deleting, and retrieving data, and more.   In Python web application development, Python is mostly used for building the backend. Python frameworks take care of dealing with tasks that are related to backend application development, such as parsing HTTP requests, generating HTTP responses, accessing the database, authentication, authorization, etc.",
+            "voice": "2-1",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python can be used alongside software to create workflows.",
+            "type": "paragraph",
+            "speech": "Automation. It’s supposed to remove work. Truth be told, automating even simple tasks robustly takes time and a lot of dependency management which can become very complex. Nevertheless, it can be very rewarding to automate some simple tasks. Even if it was more for fun.For those that are Python fans already, you know how friendly Python is for interacting with just about anything. From sending HTTP requests, interacting with APIs, to loading and managing databases.Here are five simple things you can automate that can help your various workflows and projects. Moving the Mouse Automatically So Your Skype/Lynk Shows You As Active at Work. Automating the Website Login Process Using Selenium. Many sites frown on using automated crawlers and programs to log in to their websites. But, it’s still a great skill to have. Selenium is a useful library that can be used by multiple languages and that can help automate UI QA, or even to scrape websites with a login. Although learning Selenium can take some time, start small. Just build a tool that can log in to your favorite site. Overall, watching Selenium automatically click buttons and log in to your favorite sites is mesmerizing. Things just start moving and working without your interaction. Almost like magic. Automatic File Backup. Creating automatic backup files can be very useful if you perform regular backups. You may be conversant with ZIP files (files with the .zip extension). ZIP files can contain several files with their compressed contents. And, as ZIP files can also hold many folders and subfolders, it becomes a handy way to backup files by packaging them into one. Automatically Post YouTube Videos to Reddit Threads. Another one-off idea that we recently saw and thought was an interesting way of automating tasks you might do quite often, is using a script to post multiple videos to Reddit.",
+            "voice": "2-2",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python can connect to database systems. It can also read and modify files.",
+            "type": "paragraph",
+            "speech": "From a construction firm to a stock exchange, every organisation depends on large databases. These are essentially collections of tables, and’ connected with each other through columns. These database systems support SQL, the Structured Query Language, which is used to create, access and manipulate the data. SQL is used to access data, and also to create and exploit the relationships between the stored data. Additionally, these databases support database normalisation rules for avoiding redundancy of data. The Python programming language has powerful features for database programming. Python supports various databases like MySQL, Oracle, Sybase, PostgreSQL, etc. Python also supports Data Definition Language (DDL), Data Manipulation Language (DML) and Data Query Statements. For database programming, the Python DB API is a widely used module that provides a database application programming interface. Programming in Python is arguably more efficient and faster compared to other languages and is platform independent.",
+            "voice": "2-3",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python can be used to handle big data and perform complex mathematics.",
+            "type": "paragraph",
+            "speech": "As we all know, Big Data is the most valuable commodity in the modern era. The amount of data generated by companies is increasing at a rapid pace. By 2025, IDC says the worldwide data will reach 175 zettabytes. A zettabyte is equivalent to a trillion gigabytes. Now multiply that 175 times. Then imagine how fast data is exploding. Choosing a programming language for the Big Data field is very project-specific and depends on its goal. And whatever may be the project goals, Python is the perfect programming language for Big Data because of its easy readability and statistical analysis capacity. Python is a fast-growing programming language, and a combination of Python and Big Data is the most preferred choice for developers due to less coding and tremendous library support. Python is a famous programming language because of its extensive support for libraries. These libraries are beneficial in saving time and make the language even more popular. Most of the Python libraries are useful for data analytics, visualization, numerical computing, and machine learning. Big Data requires a lot of scientific computing and data analysis, and the combination of Python with Big Data make them great companions.",
+            "voice": "2-4",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python can be used for rapid prototyping, or for production-ready software development.",
+            "type": "paragraph",
+            "speech": "Rapid prototyping, also called Rapid Application Development (RAD), is one of the key pillars for true technology innovation. It is an approach to developing software that focuses on fast, iterative development cycles. The aim of rapid prototyping is not to deliver a final product but to understand the strengths and weaknesses of the proposed technology solution. It is usually more of an adaptive process than a planned project. Since the prototype renders a simulation of how the final product is intended to work, this software development method allows teams to test the usability and feasibility of their products early in the development cycle. Rapid prototyping is often used for software development, but can also be applied to any other kind of engineering or product design. Rapid prototyping has become increasingly popular among modern developers, along with agile programming methodologies. It helps them better understand their customers’ needs and shorten the feedback loop between developers and their clients by proving the idea with a working prototype.",
+            "voice": "2-5",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          }
+        ]
+      },
+      {
+        "title": "Good to know",
+        "page": "3",
+        "font": "Dyuthi",
+        "fontsize": 150,
+        "color": "black",
+        "bg_color": "grey",
+        "members": [
+          {
+            "text": "# The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.",
+            "type": "paragraph",
+            "speech": "The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular. Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code. ",
+            "voice": "3-1",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "#  It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.",
+            "type": "paragraph",
+            "speech": " It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files. A code editor is a tool that is used to write and edit code. They are usually lightweight and can be great for learning. However, once your program gets larger, you need to test and debug your code, that's where IDEs come in. An IDE (Integrated Development Environment) understand your code much better than a text editor. It usually provides features such as build automation, code linting, testing and debugging. This can significantly speed up your work. The downside is that IDEs can be complicated to use. ",
+            "voice": "3-2",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          }
+        ]
+      },
+      {
+        "title": "Python Syntax",
+        "page": "4",
+        "font": "Dyuthi",
+        "fontsize": 150,
+        "color": "black",
+        "bg_color": "grey",
+        "members": [
+          {
+            "text": "# Python was designed for readability, and has some similarities to the English language with influence from mathematics.",
+            "type": "paragraph",
+            "speech": "Python was designed for readability, and has some similarities to the English language with influence from mathematics.  Python is a very readable language. Learning python is easy as this is a expressive and high level programming language, which means it is easy to understand the language and thus easy to learn. ",
+            "voice": "4-1",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.",
+            "type": "paragraph",
+            "speech": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.",
+            "voice": "4-2",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          },
+          {
+            "text": "# Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.",
+            "type": "paragraph",
+            "speech": "Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose. Indentation is a very important concept of Python because without proper indenting the Python code, you will end up seeing IndentationError and the code will not get compiled. Python uses four spaces as default indentation spaces. However, the number of spaces can be anything; it is up to the user. But a minimum of one space is needed to indent a statement. The first line of python code cannot have an indentation. Indentation is mandatory in python to define the blocks of statements. he number of spaces must be uniform in a block of code. It is preferred to use whitespaces instead of tabs to indent in python. Also, either use whitespace or tabs to indent; intermixing of tabs and whitespaces in indentation can cause wrong indentation errors.",
+            "voice": "4-3",
+            "font": "Dyuthi",
+            "fontsize": 75,
+            "color": "black",
+            "bg_color": "grey"
+          }
+        ]
+      }
     ]
-    }
-]
-}
+  }
