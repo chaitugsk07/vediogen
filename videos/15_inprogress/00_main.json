@@ -1,45 +1,73 @@
 {
-"videoname" : "Python Introduction",
+"videoname" : "Python Introduction1",
 "pages": [
     {
     "title" : "What is Python?",
     "page": "1",
+    "font": "Dyuthi",
+    "fontsize": "150",
+    "color" : "black",
+    "bg_color": "grey",
     "members" : [
         {
-        "text" : "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
+        "text" : "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
         "type" : "paragraph",
         "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
-        "voice" : "1-1"
+        "voice" : "1-1",
+        "font": "Chilanka-Regular",
+        "fontsize": "75",
+        "color" : "black",
+        "bg_color": "grey"
         },
         {
         "text" : "Python is used for:",
         "type" : "heading",
         "speech": "abc",
         "voice" : "1-2",
+        "font": "Dyuthi",
+        "fontsize": "75",
+        "color" : "black",
+        "bg_color": "grey",
         "points" : [
             {
             "text" : "web development (server-side),",
             "type" : "point",
             "speech": "sdvsdvsdv",
-            "voice" : "1-2-1"
+            "voice" : "1-2-1",
+            "font": "Chilanka-Regular",
+            "fontsize": "50",
+            "color" : "black",
+            "bg_color": "grey"
             },
             {
             "text" : "software development,",
             "type" : "point",
             "speech": "ydgnxvnb",
-            "voice" : "1-2-2"
+            "voice" : "1-2-2",
+            "font": "Chilanka-Regular",
+            "fontsize": "50",
+            "color" : "black",
+            "bg_color": "grey"
             },
             {
             "text" : "mathematics,",
             "type" : "point",
             "speech": "ysfnydgn",
-            "voice" : "1-2-3"
+            "voice" : "1-2-3",
+            "font": "Chilanka-Regular",
+            "fontsize": "50",
+            "color" : "black",
+            "bg_color": "grey"
             },
             {
             "text" : "system scripting.",
             "type" : "point",
             "speech": "fgnxfgn",
-            "voice" : "1-2-4"
+            "voice" : "1-2-4",
+            "font": "Chilanka-Regular",
+            "fontsize": "50",
+            "color" : "black",
+            "bg_color": "grey"
             }
         ]
         }
