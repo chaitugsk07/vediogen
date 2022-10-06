@@ -5,7 +5,7 @@
     "title" : "What is Python?",
     "page": "1",
     "font": "Dyuthi",
-    "fontsize": "150",
+    "fontsize": 150,
     "color" : "black",
     "bg_color": "grey",
     "members" : [
@@ -15,7 +15,7 @@
         "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
         "voice" : "1-1",
         "font": "Chilanka-Regular",
-        "fontsize": "75",
+        "fontsize": 75,
         "color" : "black",
         "bg_color": "grey"
         },
@@ -25,7 +25,7 @@
         "speech": "abc",
         "voice" : "1-2",
         "font": "Dyuthi",
-        "fontsize": "75",
+        "fontsize": 75,
         "color" : "black",
         "bg_color": "grey",
         "points" : [
@@ -35,7 +35,7 @@
             "speech": "sdvsdvsdv",
             "voice" : "1-2-1",
             "font": "Chilanka-Regular",
-            "fontsize": "50",
+            "fontsize": 50,
             "color" : "black",
             "bg_color": "grey"
             },
@@ -45,7 +45,7 @@
             "speech": "ydgnxvnb",
             "voice" : "1-2-2",
             "font": "Chilanka-Regular",
-            "fontsize": "50",
+            "fontsize": 50,
             "color" : "black",
             "bg_color": "grey"
             },
@@ -55,7 +55,7 @@
             "speech": "ysfnydgn",
             "voice" : "1-2-3",
             "font": "Chilanka-Regular",
-            "fontsize": "50",
+            "fontsize": 50,
             "color" : "black",
             "bg_color": "grey"
             },
@@ -65,7 +65,7 @@
             "speech": "fgnxfgn",
             "voice" : "1-2-4",
             "font": "Chilanka-Regular",
-            "fontsize": "50",
+            "fontsize": 50,
             "color" : "black",
             "bg_color": "grey"
             }
