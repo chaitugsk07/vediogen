@@ -1,5 +1,5 @@
 {
-"videoname" : "Python Introduction1",
+"videoname" : "Python Introduction",
 "pages": [
     {
     "title" : "What is Python?",
@@ -10,7 +10,7 @@
     "bg_color": "grey",
     "members" : [
         {
-        "text" : "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
+        "text" : "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
         "type" : "paragraph",
         "speech": "Python is an open-source programming language that works with a wide variety of operating systems and software to help you create applications. It has a large, robust community of users, developers and companies that make it one of the most popular languages on the planet.",
         "voice" : "1-1",
@@ -22,7 +22,7 @@
         {
         "text" : "Python is used for:",
         "type" : "heading",
-        "speech": "abc",
+        "speech": "Python, one of the most popular programming languages in the world, has created everything from Netflix’s recommendation algorithm to the software that controls self-driving cars. Python is a general-purpose language, which means it’s designed to be used in a range of applications, including data science, software and web development, automation, and generally getting stuff done.",
         "voice" : "1-2",
         "font": "Dyuthi",
         "fontsize": 75,
@@ -32,7 +32,7 @@
             {
             "text" : "web development (server-side),",
             "type" : "point",
-            "speech": "sdvsdvsdv",
+            "speech": "Python is often used to develop the back end of a website or application—the parts that a user doesn’t see. Python’s role in web development can include sending data to and from servers, processing data and communicating with databases, URL routing, and ensuring security. Python offers several frameworks for web development. Commonly used ones include Django and Flask.",
             "voice" : "1-2-1",
             "font": "Chilanka-Regular",
             "fontsize": 50,
@@ -42,7 +42,7 @@
             {
             "text" : "software development,",
             "type" : "point",
-            "speech": "ydgnxvnb",
+            "speech": "In software development, Python can aid in tasks like build control, bug tracking, and testing. With Python, software developers can automate testing for new products or features. Some Python tools used for software testing include Green and Requestium.",
             "voice" : "1-2-2",
             "font": "Chilanka-Regular",
             "fontsize": 50,
@@ -52,7 +52,7 @@
             {
             "text" : "mathematics,",
             "type" : "point",
-            "speech": "ysfnydgn",
+            "speech": "Python is a great language for doing data analysis, primarily because of the fantastic ecosystem of data-centric Python packages. Pandas is one of those packages and makes importing and analyzing data much easier. There are some important math operations that can be performed on a pandas series to simplify data analysis using Python and save a lot of time",
             "voice" : "1-2-3",
             "font": "Chilanka-Regular",
             "fontsize": 50,
@@ -62,7 +62,7 @@
             {
             "text" : "system scripting.",
             "type" : "point",
-            "speech": "fgnxfgn",
+            "speech": "Scripting is a very common practice among Python programmers. It’s used for automation of daily tasks, reporting, server management, security, social media management, business growth and development, financial trading, automating software and many other intelligent solutions.",
             "voice" : "1-2-4",
             "font": "Chilanka-Regular",
             "fontsize": 50,
